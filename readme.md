@@ -1,5 +1,10 @@
 # Defect Classification in Factory with XGBoost
 
+## Introduction
+
+This project aims to classify whether an item in a factory's production line is considered as a defect. The notebook contains thoughts and processes througout the project. Including the feature engineering, data understanding, motivations behind the methods used, handling the imbalanced class problem. 
+
+
 ## Dataset Description
 - Example of Product Name : I-B-XA1207672-190701-00494.
 - ID = PROX TRAZ = it's a unique code given to the product.

@@ -1,4 +1,4 @@
-# Defect Detection in Factory with XGBoost
+# Defect Classification in Factory with XGBoost
 
 ## Dataset Description
 - Example of Product Name : I-B-XA1207672-190701-00494.
